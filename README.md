@@ -1,1 +1,1 @@
-Qt tutorial
+Qt tutorials
