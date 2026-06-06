@@ -1,0 +1,3 @@
+Test12_6B.qrc|"D:\cmw\CppProjs\QtStudy\Test12_6B\Test12_6B.qrc" -o ".\GeneratedFiles\qrc_Test12_6B.cpp" --name Test12_6B
+Test12_6B.ui|"D:\cmw\CppProjs\QtStudy\Test12_6B\Test12_6B.ui" -o ".\GeneratedFiles\ui_Test12_6B.h"
+Test12_6B.h|"D:\cmw\CppProjs\QtStudy\Test12_6B\Test12_6B.h" -o ".\GeneratedFiles\Debug\moc_Test12_6B.cpp" "-I.\GeneratedFiles" "-I." "-IC:\Qt\Qt5.8.0\5.8\msvc2015_64\include" "-I.\GeneratedFiles\Debug" "-IC:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore" "-IC:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui" "-IC:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtANGLE" "-IC:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets" -DUNICODE -DWIN32 -DWIN64 -DQT_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB

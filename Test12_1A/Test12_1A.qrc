@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/Test12_1A">
+    <file>Resources/kermit000.jpg</file>
+    <file>Resources/P1040333.JPG</file>
+  </qresource>
+</RCC>
