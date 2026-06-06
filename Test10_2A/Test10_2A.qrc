@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="Test10_2A">
+    <file>Resources/help.png</file>
+    <file>Resources/setting.png</file>
+    <file>Resources/save.png</file>
+    <file>Resources/new.png</file>
+    <file>Resources/open.png</file>
+  </qresource>
+</RCC>
